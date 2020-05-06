@@ -1,2 +1,2 @@
 # github-demo
-Un simple repository de test pour utiliser Git
+Un simple repository de test pour utiliser git avec GitHub.
